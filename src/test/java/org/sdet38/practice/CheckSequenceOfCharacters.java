@@ -1,7 +1,7 @@
 package org.sdet38.practice;
 
 public class CheckSequenceOfCharacters {
-//
+// //
 	//input ---> xyzabc
 	//output --> x.a
 	//input ---> pqrslmnopqxyz
